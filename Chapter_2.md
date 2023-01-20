@@ -51,6 +51,9 @@ Il est donc important que les campagnes politiques et les utilisateurs de big da
 ## 6 - Références : 
 
 [^1]: [Anaïs Theviot, "Un nouveau marché politique du Big Data électoral ?"](Communication et organisation Revue scientifique francophone en Communication organisationnelle).
+
 [^2]: [Idris Fassassi, "Les effets des réseaux sociaux dans les campagnes électorales américaines"](https://dice.univ-amu.fr/sites/dice.univ-amu.fr/files/public/2.4.i_fassassi_ccd5_0.pdf).
+
 [^3]: [Thomas Ehrhard, "La technologie dans les campagnes électorales. Enjeux et perspectives de l'étude du micro -ciblage électoral"](Emulations - Revue de sciences sociales).
+
 [^4]: [WILLIAM SANGER, "Science des données et politique : quatre essais pour comprendre les processus démocratiques"](https://www.researchgate.net/publication/344450177_La_technologie_dans_les_campagnes_electorales_Enjeux_et_perspectives_de_l'etude_du_micro_-ciblage_electoral).
