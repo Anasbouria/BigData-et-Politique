@@ -41,8 +41,7 @@ In conclusion, big data plays a crucial role in developing predictive models for
 
 
 ## 6 - Références : 
-
-- "Big Data in Politics: The Good, the Bad, and the Ugly" by Daniel Kreiss, published in the Journal of Computer-Mediated Communication
-- "The Political Power of Big Data Analytics" by D. Sunshine Hillygus and Todd G. Shields, published in the Journal of Information Technology & Politics
-- "Big Data and Political Campaigns: The Future of Campaigning" by John Wihbey, published in the Journal of Political Marketing
-- "The Impact of Big Data on Politics and Campaigns" by Andrew Heyward, published in the Journal of Political Science Education
+- "Big Data en politique : The Good, the Bad, and the Ugly" par Daniel Kreiss, publié dans le Journal of Computer-Mediated Communication.
+- "The Political Power of Big Data Analytics" par D. Sunshine Hillygus et Todd G. Shields, publié dans le Journal of Information Technology & Politics.
+- "Big Data et campagnes politiques : The Future of Campaigning" par John Wihbey, publié dans le Journal of Political Marketing.
+- "The Impact of Big Data on Politics and Campaigns" par Andrew Heyward, publié dans le Journal of Political Science Education.
