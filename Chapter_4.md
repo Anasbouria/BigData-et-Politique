@@ -31,10 +31,6 @@ Un exemple de cela est la violation de données chez Equifax, une agence de nota
 
 Cet exemple montre les conséquences graves des violations de données pour la vie privée et la sécurité des individus et comment ces violations peuvent être utilisées à des fins malveillantes. Il souligne également la nécessité de mesures de protection de données robustes pour s'assurer que les données personnelles sont collectées, stockées et utilisées de manière responsable.
 
-## Manque de transparence
-
-Lors du manque de transparence, la nature propriétaire des données et le manque de contrôle sur les données collectées et utilisées par des tiers ne permettent pas aux individus de comprendre comment leurs données sont utilisées. Ce manque de transparence peut rendre difficile pour les individus de prendre des décisions éclairées sur la façon dont leurs données sont partagées, et il peut être difficile de rendre les organisations responsables de l'utilisation de leurs données. En d'autres termes, il est important pour les individus de savoir comment leurs données sont collectées, utilisées, stockées et protégées, et quelles sont les conséquences de leur partage. Cela permet aux individus de prendre des décisions informées sur la façon dont ils souhaitent partager leurs données et de s'assurer que les organisations respectent les normes de protection de la vie privée.
-
 ## Conclusion : 
 
 Il existe plusieurs mesures qui peuvent être prises pour aborder les préoccupations éthiques liées à l'utilisation de données massives :
