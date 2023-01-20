@@ -54,4 +54,10 @@ Il est important de souligner que l'abordage des préoccupations éthiques est u
 
 ## Références : 
 
-[^1]: [Facebook–Cambridge Analytica data scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal#:~:text=In%20the%202010s%2C%20personal%20data,be%20used%20for%20political%20advertising.)
+[^1]: [Facebook–Cambridge Analytica data scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal#:~:text=In%20the%202010s%2C%20personal%20data,be%20used%20for%20political%20advertising.).
+
+[^2]: [Gillis, Talia B., and Jann L. Spiess. "Big Data and Discrimination." The University of Chicago Law Review, vol. 86, no. 2, 2019, pp. 459–88. JSTOR](https://www.jstor.org/stable/26590562).
+
+[^3]: ["Big Data's Big Unintended Consequences", the Information Technology and Innovation Foundation](https://www.academia.edu/5967157/Big_Datas_Big_Unintended_Consequences).
+
+[^4]: [H. Jeff Kim, "The Ethics of Big Data"](https://link.springer.com/book/10.1007/978-3-319-28422-4).
