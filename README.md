@@ -12,15 +12,15 @@
 * Oussama Talliby
 
 
-## Summary
+## Abstract
 
 
 
 ## Contents 
-- [Chapter 1]() 
-- [Chapter 2]() 
-- [Chapter 3 :](Chapter_3.md) Modèles prédictifs et politique
-- [Chapter 2]()
-- [Chapter 2]()
-- [Chapter 2]()
+- [Chapter 1](Chapiter_1.md) Introduction
+- [Chapter 2](Chapter_2.md) Les campagnes politiques
+- [Chapter 3](Chapter_3.md) Modèles prédictifs et politique
+- [Chapter 2](Chapter_4.md) Questions d'éthique et de confidentialité
+- [Chapter 2](Chapter_5.md) Biais dans les données
+- [Chapter 2](Conclusion.md) Conclusion
 
