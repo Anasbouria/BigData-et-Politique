@@ -19,7 +19,7 @@
 ## Contents 
 - [Chapter 1]() 
 - [Chapter 2]() 
-- [Chapter 3 :](Chapter_3.md.md) Modèles prédictifs et politique
+- [Chapter 3 :](Chapter_3.md) Modèles prédictifs et politique
 - [Chapter 2]()
 - [Chapter 2]()
 - [Chapter 2]()
