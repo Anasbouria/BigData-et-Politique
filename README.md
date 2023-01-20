@@ -14,6 +14,7 @@
 
 ## Abstract
 
+Big Data has a significant impact on politics as it can be used to identify voting patterns, target campaign messages, and analyze public opinion. However, the use of big data also raises ethical and privacy concerns such as the collection and use of personal data without consent and potential bias in the data and models. It is important for political campaigns, organizations, and individuals to understand and address these concerns to ensure responsible and effective use of big data in politics.
 
 
 ## Contents 
