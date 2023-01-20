@@ -1,4 +1,4 @@
-# Chapter 3: Modèles prédictifs et politique
+# Chapter 4: Questions d'éthique et de confidentialité
 ## Introduction : 
 
 Big Data fait référence à de grandes quantités de données diverses générées et collectées par les organisations et les individus. Ces données peuvent inclure tout, des publications sur les réseaux sociaux et les transactions en ligne aux images satellites et aux données de capteurs. Des modèles prédictifs peuvent être développés à l'aide de données massives pour aider les décisions de campagne. Cependant, l'utilisation de Big Data en politique soulève également des préoccupations éthiques et de confidentialité importantes, telles que la collecte et l'utilisation de données personnelles sans consentement, la publicité politique ciblée, la discrimination et la manipulation de l'opinion publique, le manque de transparence et le biais dans les données et les modèles. Il est crucial pour les campagnes politiques, les organisations et les individus de comprendre les implications de Big Data et de travailler pour minimiser les biais dans leurs données et modèles tout en étant transparents sur leurs pratiques de collecte et d'utilisation de données.
