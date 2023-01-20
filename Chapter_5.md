@@ -33,3 +33,12 @@ Il existe plusieurs moyens de gérer les risques liés au biais dans les donnée
 
 ## Conclusion : 
 En conclusion, le biais dans les données est un problème important lié à l'utilisation de la technologie de grande envergure en politique. Il peut entraîner des résultats inexacts ou trompeurs, de la discrimination, un renforcement des stéréotypes, un déficit de représentation, et des décisions injustes. Il est donc crucial de s'assurer que les données utilisées pour entraîner les modèles sont représentatives de la population cible et de prendre en compte les contextes sociaux et culturels pour éviter les biais dans les résultats. Il existe plusieurs moyens de gérer les risques liés au biais dans les données massives en politique, tels que la collecte de données auprès de populations diverses, la surveillance des modèles pour détecter le biais, l'utilisation d'une analyse intersectionnelle, la transparence et la responsabilité, la formation des employés en matière de diversité et d'inclusion et l'association avec les experts de la communauté. En utilisant ces méthodes, il est possible de garantir des résultats fiables et justes.
+
+## Références : 
+
+[^1]: [Institut Montaigne](https://www.institutmontaigne.org/analyses/algorithmes-donnees-et-biais-quelles-politiques-publiques).
+
+[^2]: [BSI economics](http://www.bsi-economics.org/1028-politiques-publiques-biais-cl).
+
+[^3]: [Chaire vp IP](https://cvpip.wp.imt.fr/2018/10/12/biais-des-algorithmes-discrimination-et-equite/).
+
