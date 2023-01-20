@@ -1,13 +1,13 @@
 # Chapter 4: Questions d'éthique et de confidentialité
 ## Introduction : 
 
-Big Data fait référence à de grandes quantités de données diverses générées et collectées par les organisations et les individus. Ces données peuvent inclure tout, des publications sur les réseaux sociaux et les transactions en ligne aux images satellites et aux données de capteurs. Des modèles prédictifs peuvent être développés à l'aide de données massives pour aider les décisions de campagne. Cependant, l'utilisation de Big Data en politique soulève également des préoccupations éthiques et de confidentialité importantes, telles que la collecte et l'utilisation de données personnelles sans consentement, la publicité politique ciblée, la discrimination et la manipulation de l'opinion publique, le manque de transparence et le biais dans les données et les modèles. Il est crucial pour les campagnes politiques, les organisations et les individus de comprendre les implications de Big Data et de travailler pour minimiser les biais dans leurs données et modèles tout en étant transparents sur leurs pratiques de collecte et d'utilisation de données.
+Big Data fait référence à de grandes quantités de données diverses générées et collectées par les organisations et les individus. Ces données peuvent inclure tout, des publications sur les réseaux sociaux et les transactions en ligne aux images satellites et aux données de capteurs. Des modèles prédictifs peuvent être développés à l'aide de données massives pour aider les décisions de campagne. Cependant, l'utilisation de Big Data en politique soulève également des préoccupations éthiques et de confidentialité importantes, telles que la collecte et l'utilisation de données personnelles sans consentement, la publicité politique ciblée, la discrimination et la manipulation de l'opinion publique, le manque de transparence et le biais dans les données et les modèles. Il est crucial pour les campagnes politiques, les organisations et les individus de comprendre les implications de Big Data et de travailler pour minimiser les biais dans leurs données et modèles tout en étant transparents sur leurs pratiques de collecte et d'utilisation de données[^1].
 
 ## Manipulation de l'opinion publique et influence sur les élections :
 
 La manipulation de l'opinion publique et de l'influence sur les élections font référence aux préoccupations selon lesquelles les données peuvent être utilisées pour cibler des groupes de personnes spécifiques avec certains messages ou publicités, ce qui pourrait potentiellement être utilisé pour manipuler l'opinion publique ou influencer le résultat des élections. Cela peut être fait en utilisant des données pour créer des campagnes publicitaires hautement spécifiques et ciblées, ou en utilisant des données pour identifier et influencer les groupes démographiques clés qui sont susceptibles de faire basculer une élection.
 
-Un exemple de ceci est l'utilisation de données lors de l'élection présidentielle américaine de 2016 par Cambridge Analytica, une entreprise de conseil politique, qui a utilisé des données obtenues sur Facebook pour créer des campagnes publicitaires ciblées destinées à orienter l'opinion publique en faveur du candidat Donald Trump. L'entreprise a récolté des données personnelles de plus de 50 millions de profils Facebook sans le consentement des utilisateurs et a utilisé ces informations pour créer des profils psychologiques détaillés des individus. Cette information a ensuite été utilisée pour créer des campagnes publicitaires ciblées visant à influencer les opinions et les comportements de groupes spécifiques de personnes[^1].
+Un exemple de ceci est l'utilisation de données lors de l'élection présidentielle américaine de 2016 par Cambridge Analytica, une entreprise de conseil politique, qui a utilisé des données obtenues sur Facebook pour créer des campagnes publicitaires ciblées destinées à orienter l'opinion publique en faveur du candidat Donald Trump. L'entreprise a récolté des données personnelles de plus de 50 millions de profils Facebook sans le consentement des utilisateurs et a utilisé ces informations pour créer des profils psychologiques détaillés des individus. Cette information a ensuite été utilisée pour créer des campagnes publicitaires ciblées visant à influencer les opinions et les comportements de groupes spécifiques de personnes[^2].
 
 Un autre exemple est l'utilisation de données par la campagne Leave.eu lors du référendum sur le Brexit au Royaume-Uni, qui a utilisé des données provenant de diverses sources pour créer des campagnes publicitaires ciblées destinées à influencer les opinions et les comportements de groupes spécifiques de personnes.
 
@@ -15,7 +15,7 @@ Ces exemples montrent comment les données peuvent être utilisées pour manipul
 
 ## Discrimination :
 
-Les données peuvent être utilisées pour discriminer certains groupes de personnes, comme en leur refusant l'accès à certains services ou opportunités. Cela peut se produire lorsque les données sont utilisées pour créer des algorithmes ou des modèles qui sont intrinsèquement biaisés contre certains groupes de personnes, ou lorsque les données sont utilisées pour prendre des décisions qui affectent de manière disproportionnée certains groupes de personnes.
+Les données peuvent être utilisées pour discriminer certains groupes de personnes, comme en leur refusant l'accès à certains services ou opportunités. Cela peut se produire lorsque les données sont utilisées pour créer des algorithmes ou des modèles qui sont intrinsèquement biaisés contre certains groupes de personnes, ou lorsque les données sont utilisées pour prendre des décisions qui affectent de manière disproportionnée certains groupes de personnes[^3].
 
 Par exemple, on trouve l'utilisation de données dans le système de justice pénale, où les algorithmes et les modèles utilisés pour prédire la probabilité de récidive ont été reconnus comme étant biaisés contre certains groupes de personnes, comme les "accusés noirs". C'est parce que ces algorithmes sont souvent formés à partir de données historiques qui reflètent les biais existants dans le système de justice pénale, ce qui peut perpétuer ces biais dans les prédictions générées par les algorithmes.
 
@@ -33,7 +33,7 @@ Cet exemple montre les conséquences graves des violations de données pour la v
 
 ## Conclusion : 
 
-Il existe plusieurs mesures qui peuvent être prises pour aborder les préoccupations éthiques liées à l'utilisation de données massives :
+Il existe plusieurs mesures qui peuvent être prises pour aborder les préoccupations éthiques liées à l'utilisation de données massives [^4]:
 
 - Transparence : les organisations et les gouvernements devraient être transparents sur la façon dont ils collectent, stockent et utilisent les données, et les individus devraient être informés de quelles données sont collectées à leur sujet, comment elles sont utilisées et avec qui elles sont partagées.
 
@@ -54,10 +54,10 @@ Il est important de souligner que l'abordage des préoccupations éthiques est u
 
 ## Références : 
 
-[^1]: [Facebook–Cambridge Analytica data scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal#:~:text=In%20the%202010s%2C%20personal%20data,be%20used%20for%20political%20advertising.).
+[^1]: [H. Jeff Kim, "The Ethics of Big Data"](https://link.springer.com/book/10.1007/978-3-319-28422-4).
 
-[^2]: [Gillis, Talia B., and Jann L. Spiess. "Big Data and Discrimination." The University of Chicago Law Review, vol. 86, no. 2, 2019, pp. 459–88. JSTOR](https://www.jstor.org/stable/26590562).
+[^2]: [Facebook–Cambridge Analytica data scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal#:~:text=In%20the%202010s%2C%20personal%20data,be%20used%20for%20political%20advertising.).
 
-[^3]: ["Big Data's Big Unintended Consequences", the Information Technology and Innovation Foundation](https://www.academia.edu/5967157/Big_Datas_Big_Unintended_Consequences).
+[^3]: [Gillis, Talia B., and Jann L. Spiess. "Big Data and Discrimination." The University of Chicago Law Review, vol. 86, no. 2, 2019, pp. 459–88. JSTOR](https://www.jstor.org/stable/26590562).
 
-[^4]: [H. Jeff Kim, "The Ethics of Big Data"](https://link.springer.com/book/10.1007/978-3-319-28422-4).
+[^4]: ["Big Data's Big Unintended Consequences", the Information Technology and Innovation Foundation](https://www.academia.edu/5967157/Big_Datas_Big_Unintended_Consequences).
